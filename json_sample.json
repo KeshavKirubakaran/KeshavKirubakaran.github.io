@@ -1,0 +1,304 @@
+{
+	"chapters":[
+				{ 
+				              "contents":"INDIA",
+                              "questions": [{
+                              				"question":"What is the Capital of India?",
+                              				"options":["Delhi","Chennai"],
+                              				"answer":"Delhi",
+                              				"hint":"It is in North"
+                              				},
+											{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+
+                              			]
+
+							},
+                { 
+				              "contents":"TAMILNADU",
+                              "questions":[{
+                              				"question":"What is the Capital of Tamilnadu?",
+                              				"options":["Delhi","Chennai"],
+                              				"answer":"Chennai",
+                              				"hint":"It is in south"
+                              				},
+											{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"KERALA",
+                              "questions":[{
+                              				"question":"What is the Capital of Kerala?",
+                              				"options":["Trivandram","Chennai"],
+                              				"answer":"Trivandram",
+                              				"hint":"It is in South-West"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"KARNATAKA",
+                              "questions":{
+                              				"question":"What is the Capital of Karnataka?",
+                              				"options":["Lucknow","Bangalore"],
+                              				"answer":"Bangalore",
+                              				"hint":"It is in an Electronic city"
+                              				}
+
+							},
+				{ 
+				              "contents":"RAJASTHAN",
+                              "questions":[{
+                              				"question":"What is the Capital of Rajasthan?",
+                              				"options":["Jaipur","Madurai"],
+                              				"answer":"Jaipur",
+                              				"hint":"It is called as Pink City of India"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"MAHARASTRA",
+                              "questions":[{
+                              				"question":"What is the Capital of Maharastra?",
+                              				"options":["Mumbai","Chennai"],
+                              				"answer":"Mumbai",
+                              				"hint":"It is the most populated city in India"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"ANDHRA PRADESH",
+                              "questions":[{
+                              				"question":"What is the Capital of Andhra?",
+                              				"options":["Hyderabad","Chennai"],
+                              				"answer":"Hyderabad",
+                              				"hint":"It has a Google Headquater in India"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"GOA",
+                              "questions":[{
+                              				"question":"What is the Capital of Goa?",
+                              				"options":["Delhi","Panaji"],
+                              				"answer":"Panaji",
+                              				"hint":"It is in Goa"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}]
+
+							},
+				{ 
+				              "contents":"GUJARAT",
+                              "questions":[{
+                              				"question":"What is the Capital of Gujarat?",
+                              				"options":["Delhi","Gandhinagar"],
+                              				"answer":"Gandhinagar",
+                              				"hint":"It is named in the memory of Gandhiji"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"ASSAM",
+                              "questions":[{
+                              				"question":"What is the Capital of Assam?",
+                              				"options":["Delhi","Dispur"],
+                              				"answer":"Dispur",
+                              				"hint":"It is in East"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+			    { 
+				              "contents":"JAMMU & KASHMIR",
+                              "questions":[{
+                              				"question":"What is the Capital of Jammu & Kashmir?",
+                              				"options":["Delhi","Srinagar"],
+                              				"answer":"Srinagar",
+                              				"hint":"It is in Northmost of India"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"UTTAR PRADESH",
+                              "questions":[{
+                              				"question":"What is the Capital of Uttar Pradesh?",
+                              				"options":["Delhi","Lucknow"],
+                              				"answer":"Lucknow",
+                              				"hint":"It is in UP"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+ 				{ 
+				              "contents":"BIHAR",
+                              "questions":[{
+                              				"question":"What is the Capital of Bihar?",
+                              				"options":["Patna","Chennai"],
+                              				"answer":"Patna",
+                              				"hint":"It is in East"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{
+				              "contents":"HARYANA",
+                              "questions":[{
+                              				"question":"What is the Capital of Haryana?",
+                              				"options":["Chandigarh","Chennai"],
+                              				"answer":"Chandigarh",
+                              				"hint":"Nearby Delhi"
+                              				},
+                              			    {
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}]
+
+							},
+				{ 
+				              "contents":"MADHYA PRADESH",
+                              "questions":[{
+                              				"question":"What is the Capital of Madhya Pradesh?",
+                              				"options":["Bhopal","Chennai"],
+                              				"answer":"Bhopal",
+                              				"hint":"It is in MP"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"PUNJAB",
+                              "questions":[{
+                              				"question":"What is the Capital of Punjab?",
+                              				"options":["Delhi","Chandigarh"],
+                              				"answer":"Chandigarh",
+                              				"hint":"It is the capital of Haryana too"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}]
+
+							},
+				{ 
+				              "contents":"MANIPUR",
+                              "questions":[{
+                              				"question":"What is the Capital of Manipur?",
+                              				"options":["Delhi","Imphal"],
+                              				"answer":"Imphal",
+                              				"hint":"It is in Manipur"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							},
+				{ 
+				              "contents":"JHARKHAND",
+                              "questions":[{
+                              				"question":"What is the Capital of Jharkhand?",
+                              				"options":["Ranchi","Chennai"],
+                              				"answer":"Ranchi",
+                              				"hint":"Dhoni's birth place"
+                              				},
+                              				{
+                              				"question":"What is the PM of India?",
+                              				"options":["MODI","KD"],
+                              				"answer":"MODI",
+                              				"hint":"He will be always flying"
+                              				}
+                              			]
+
+							}
+							
+
+
+				]
+}
